@@ -1,4 +1,4 @@
-## Homework 2
+## Homework 2 
 
 ### Possible Directions
 
@@ -60,3 +60,8 @@ TBD
 
 - [ ] Update any possible dataset and reference paper that you think might be useful
 - [ ] More problem settings with exact input and output
+
+###### Report&Presentation Related (finally):
+
+- [ ] Final pdf report
+- [ ] Some slides for presentation next week
