@@ -51,10 +51,10 @@ TBD
 
 ###### Evaluation&Analysis Related:
 
-- [ ] Maybe get familiar with how **scJoint** evaluate and anylyse their model
-- [ ] Provide some evaluation function (code) taking in the trained model
+- [ ] Maybe get familiar with how **scJoint** evaluate and anylyse their results
+- [ ] Provide some evaluation functions (code) which takes in the trained model
 
-- [ ] Some comparison between existing method, pros and cons (not sure if necessary)
+- [ ] Some comparison between existing methods, pros and cons (not sure if necessary)
 
 ###### More Direction Related: 
 
