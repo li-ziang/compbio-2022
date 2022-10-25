@@ -20,7 +20,7 @@
 
 ##### scJoint
 
-![image-20221025161003056](/Users/bingliangzhang/Desktop/compbio-2022/hm2/README.assets/image-20221025161003056.png)
+![image-20221025161003056](README.assets/image-20221025161003056.png)
 
 * First transfer **scATAC-seq** to **gene activitity scores** (same format as scRNA-seq)
 
