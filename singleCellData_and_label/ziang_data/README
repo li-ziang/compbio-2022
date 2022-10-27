@@ -1,0 +1,13 @@
+
+without crossentorpy
+output0:0.9334
+without loss_encoder
+output1:0.9329
+without encoding_loss
+output2:0.9353
+without center_loss
+output3:0.9276
+without regularization_loss_cell
+output4:0.9307
+using regression instead of knn
+regression:0.9334
