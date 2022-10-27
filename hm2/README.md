@@ -38,14 +38,14 @@ TBD
 
 ###### Data Related:
 
-- [ ] Prepare and get familiar with dataset of **scJoint**. 
-- [ ]  Maybe provide some flexible loading function (code).
+- [x] Prepare and get familiar with dataset of **scJoint**. 
+- [x]  Maybe provide some flexible loading function (code).
 - [ ] Explore the data feature, such as sparsity.
 
 ###### Algorithm Related: 
 
-- [ ] Get familar with code of **scJoint** and find which parts are reuseable.
-- [ ] Reproduce some basic result of scJoint (not sure if necessary)
+- [x] Get familar with code of **scJoint** and find which parts are reuseable.
+- [x] Reproduce some basic result of scJoint (not sure if necessary)
 - [ ] Propose our own solution/method (I guess it can be a simple one but still necessary for this homework)
 - [ ] Some basic visualization
 
@@ -65,3 +65,31 @@ TBD
 
 - [ ] Final pdf report
 - [ ] Some slides for presentation next week
+
+
+
+
+
+#### Possible Trial
+
+1. MLP + Relu + MLP / Other network architectures
+
+2. Modifier the loss
+
+   ###### Stage 1
+
+   1. Cross entropy loss on labeled data
+   2. Reduction loss (NNDR) (3项) 
+   3. L1 regularizer
+
+   ###### Stage 3
+
+   1. Cross entropy loss on labeled data
+   2. Reduction loss (NNDR) (3项) 
+   3. L1 regularizer
+   4. Center loss
+
+3. KNN modifier / 试一试别的分类器 and hyperparameters
+
+4. Other datasets
+
