@@ -27,14 +27,14 @@ python visual.py {exp_name}
 ### Visualization Results
 
 <div>
-  <img src="images/tsne_original_data.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_ce_only_data.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_origin_data.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_origin_pred.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_exp_align_data.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_exp_align_pred.png" alt="image-1" style="zoom:35%;" />
-   <img src="images/tsne_final_data.png" alt="image-1" style="zoom:35%;" />
-  <img src="images/tsne_final_pred.png" alt="image-1" style="zoom:35%;" />
+  <img src="images/tsne_original_data.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_ce_only_data.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_origin_data.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_origin_pred.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_exp_align_data.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_exp_align_pred.png" alt="image-1" style="zoom:20%;" />
+   <img src="images/tsne_final_data.png" alt="image-1" style="zoom:20%;" />
+  <img src="images/tsne_final_pred.png" alt="image-1" style="zoom:20%;" />
 
 
 
