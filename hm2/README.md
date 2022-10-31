@@ -74,7 +74,7 @@ TBD
 
 1. MLP + Relu + MLP / Other network architectures
 
-2. Modifier the loss
+2. Modify the loss
 
    ###### Stage 1
 
@@ -92,4 +92,6 @@ TBD
 3. KNN modifier / 试一试别的分类器 and hyperparameters
 
 4. Other datasets
+
+
 
