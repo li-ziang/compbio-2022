@@ -20,3 +20,23 @@ To evaluation, one can run code in:
 evaluate.py 
 ```
 
+
+
+
+
+### Quantitative Evaluation
+
+###### Classifier Accuracy
+
+| Methods  |   Ours    | Lasso | Difference Analysis | Genes from Literature |
+| :------: | :-------: | :---: | :-----------------: | :-------------------: |
+| Accuracy | **86.7%** | 92.8% |        54.3%        |         76.4%         |
+
+
+
+###### IoU Score
+
+| Methods  |   Ours   | Lasso | Difference Analysis | Genes from Literature |
+| :------: | :------: | :---: | :-----------------: | :-------------------: |
+| Accuracy | **1.4%** | 2.3%  |        1.7%         |         10.1%         |
+
